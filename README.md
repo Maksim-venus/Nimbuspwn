@@ -2,4 +2,4 @@
 Nimbuspwn
 privilege Linux vulnerability
 
-![Image text](../pic/a.jpg)
+![Image text](./Nimbuspwn.png)
